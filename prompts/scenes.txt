@@ -1,0 +1,19 @@
+# 迪士尼场景提示词库
+
+## 迪士尼城堡
+Disney magic castle, fairytale kingdom, tall spires and towers, magical atmosphere,
+nighttime with fireworks, twinkling lights, fantasy architecture, high quality art,
+Disney animation style
+
+## 冰宫
+Frozen ice palace, magical ice kingdom, crystalline ice structures, northern lights,
+magical blue and white lighting, snowy landscape, fantasy winter wonderland,
+high quality render
+
+## 魔法森林
+Magical enchanted forest, glowing flowers, mystical trees, sparkles, magical light,
+fantasy woodland, mysterious atmosphere, high quality digital art
+
+## 仙境海岸
+Tropical island paradise, turquoise ocean waves, white sand beach, palm trees,
+magic sunset, fantasy landscape, high quality render
